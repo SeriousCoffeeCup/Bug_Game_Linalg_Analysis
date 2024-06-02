@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a414343c-26a4-4908-aad8-a3a6275dd295" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../CS 188 Repos/Programming - Project 1/search/.idea/search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0_RunningAProgram/HelloWorld/HelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0_RunningAProgram/IntelliJ-Java-Orientation/IntelliJ-Java-Orientation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0_RunningAProgram/IntelliJ_Test1/.idea/IntelliJ_Test1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0_RunningAProgram/IntelliJ_Test1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0_RunningAProgram/IntelliJ_Test1/out/production/IntelliJ_Test1/.idea/IntelliJ_Test1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0_RunningAProgram/helloWorld_v3/helloWorld/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0_RunningAProgram/helloWorld_v3/helloWorld/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0_RunningAProgram/helloWorld_v3/helloWorld/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0_RunningAProgram/helloWorld_v3/helloWorld/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0_RunningAProgram/helloWorld_v3/helloWorld/helloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0_RunningAProgram/helloWorld_v3/helloWorld/src/helloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0_RunningAProgram/helloWorld_v3/helloWorld/src/supportClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0_RunningAProgram/world/world.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassScopes/ClassScopes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassScopes/ClassScopes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassScopes/ClassScopes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassScopes/ClassScopes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassScopes/ClassScopes/ClassScopes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassScopes/ClassScopes/src/ClassScopes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shape_Shifter/Projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shape_Shifter/Shape_Shifter/Shape_Shifter.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2ckxga97QTeeOMY2tXeO3eMXp3x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/repos/Java/1_Basics/outPutMastery",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a414343c-26a4-4908-aad8-a3a6275dd295" name="Changes" comment="" />
+      <created>1708669490056</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708669490056</updated>
+      <workItem from="1708669491137" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
